@@ -7,6 +7,7 @@ The ContextAttentionModule is a flexible module that can be plugged into many ne
 python ContextAttentionModule.py 
 
 ### Reference
+```
 @article{xie2022robust,
   title={A robust context attention network for human hand detection},
   author={Xie, Zhihuai and Wang, Shaojie and Zhao, Wentian and Guo, Zhenhua},
@@ -16,6 +17,6 @@ python ContextAttentionModule.py
   year={2022},
   publisher={Elsevier}
 }
-
+```
 
 
